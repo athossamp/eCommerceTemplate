@@ -45,4 +45,8 @@ todo: no header criar o hidden search
 todo: ajustar versão mobile
 
 todo: criar sistema de carrinho que irá absorver => preço, nome, quantidade(useState), 
-mandar isso para valor final da compra e ajustar lá as condicionantes pra geração do boleto/pix/cartão */
+mandar isso para valor final da compra e ajustar lá as condicionantes pra geração do boleto/pix/cartão
+
+todo: adicionar no objeto opção se promocional ou não, se o valor for promocional dar display dele com o valor original riscado, caso contrário
+n risca e nem mostra o segundo valor
+*/

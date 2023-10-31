@@ -66,8 +66,8 @@
 }
 .embla__prev__2 {
   position: absolute;
-  left: 17.5%;
-  top: 70%;
+  left: 190px;
+  top: 570px;
   background-color: #252931;
   opacity: 0.3;
   width: 36px;
@@ -79,8 +79,8 @@
 }
 .embla__next__2 {
   position: absolute;
-  right: 17.5%;
-  top: 70%;
+  right: 190px;
+  top: 570px;
   background-color: #252931;
   opacity: 0.3;
   width: 36px;

@@ -142,6 +142,42 @@ header {
   margin-left: 26px;
   padding: 0;
 }
+.dropdown-2 {
+  margin-top: 35px;
+}
+.dropdown-2.show {
+  display: none;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 3rem;
+}
+.dropdown-background-2 {
+  width: 262px;
+  height: 336px;
+  position: absolute;
+  background-color: white;
+  left: 354px;
+  bottom: 207px;
+  border-right: 2px groove;
+}
+.dropdown-3 {
+  margin-top: 35px;
+}
+.dropdown-3.show {
+  display: none;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 3rem;
+}
+.dropdown-background-3 {
+  width: 262px;
+  height: 336px;
+  position: absolute;
+  background-color: white;
+  left: 263px;
+  bottom: 0px;
+  border-right: 2px groove;
+}
 @media (max-width: 1280px) {
   .header-button {
     display: inline-flex;

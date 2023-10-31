@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Header.css";
 import Navbar from "./Navbar";
 
@@ -17,7 +18,9 @@ function Header() {
       </div>
       <div className="header-white">
         <div className="header-text">
-          <img src="images/logo.png" />
+          <Link to="/">
+            <img src="images/logo.png" />
+          </Link>
           <ul>
             <Navbar />
             <div className="header-button">
